@@ -6,6 +6,7 @@ body {
     background: url(http://localhost/photograph/images/background.png) no-repeat;
     font-family: custom;
 
+
 }
 
 .days_timer {
@@ -379,12 +380,13 @@ button {
 }
 
 .ordertwo {
-    margin-top: 348px;
+    margin-top: 22em;
     margin-left: 1px;
     background: url(http://localhost/photograph/images/meeting.png);
     width: 620px;
     border: 0px black solid;
     height: 30px;
+    position: relative;
 
 }
 
@@ -473,10 +475,14 @@ img {
     padding-left: 100px;
     font-weight: 900;
     margin-left: 40px;
-    margin-top: 36px;
+    margin-top: 3em;
     color: #7f5a14;
-    font-size: 24px;;
+    font-size: 24px;
+    position: relative;
+
 }
+
+
 
 .borderdown {
     width: 600px;
@@ -598,6 +604,63 @@ img {
     margin-top: 24px;
     position: relative;
     z-index: -1;
+
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    .orderthree {
+        margin-top:38px; /* on Safari and Chrome  */
+        position: relative;
+    }
+
+    .orderfour {
+        background: url(http://localhost/photograph/images/photograph.png);
+        width: 610px;
+        height:100%;
+        /*padding-left: 60px;
+        margin-left: 100px;
+        margin-top: 132px;
+        */position: relative;
+        z-index: -1;
+
+    }
+
+    .textheader {
+        display: block;
+        margin-left: -1px;
+        margin-top: -49px;
+        font-weight: 900;
+        color: #bbc695;
+        font-size: 17px;
+        width: 690px;
+        padding-left: 20px;
+
+    }
+
+    .text {
+
+        font-size: 16px;
+        position: absolute;
+        border: 0px solid black;
+        margin-left: -130px;
+        max-height: 300px;
+        margin-top:-25px;
+        width: 850px;
+        z-index: -1;
+    }
+
+    .textphoto {
+        font-size: 17px;
+        color: #7f5a14;
+        font-weight: bolder;
+        margin-left: -90px;
+        margin-top: 15px;
+        border: 0px solid black;
+        width: 840px;
+
+    }
+
+
 
 }
 
