@@ -180,26 +180,26 @@
 </div>
 
 <div class="portfolio">
-    <a href="http://localhost/photograph/img/1.jpg"> <img src="http://localhost/photograph/thumb/1.jpg"/></a>
-    <a href="http://localhost/photograph/img/2.jpg"> <img src="http://localhost/photograph/thumb/2.jpg"/></a>
-    <a href="http://localhost/photograph/img/3.jpg"> <img src="http://localhost/photograph/thumb/3.jpg"/></a>
-    <a href="http://localhost/photograph/img/4.jpg"> <img src="http://localhost/photograph/thumb/4.jpg"/></a>
-    <a href="http://localhost/photograph/img/5.jpg"> <img src="http://localhost/photograph/thumb/5.jpg"/></a>
-    <a href="http://localhost/photograph/img/6.jpg"> <img src="http://localhost/photograph/thumb/6.jpg"/></a>
-    <a href="http://localhost/photograph/img/7.jpg"> <img src="http://localhost/photograph/thumb/7.jpg"/></a>
-    <a href="http://localhost/photograph/img/8.jpg"> <img src="http://localhost/photograph/thumb/8.jpg"/></a>
-    <a href="http://localhost/photograph/img/9.jpg"> <img src="http://localhost/photograph/thumb/9.jpg"/></a>
-    <a href="http://localhost/photograph/img/10.jpg"> <img src="http://localhost/photograph/thumb/10.jpg"/></a>
-    <a href="http://localhost/photograph/img/11.jpg"> <img src="http://localhost/photograph/thumb/11.jpg"/></a>
-    <a href="http://localhost/photograph/img/12.jpg"> <img src="http://localhost/photograph/thumb/12.jpg"/></a>
-    <a href="http://localhost/photograph/img/13.jpg"> <img src="http://localhost/photograph/thumb/13.jpg"/></a>
-    <a href="http://localhost/photograph/img/14.jpg"> <img src="http://localhost/photograph/thumb/14.jpg"/></a>
-    <a href="http://localhost/photograph/img/15.jpg"> <img src="http://localhost/photograph/thumb/15.jpg"/></a>
-    <a href="http://localhost/photograph/img/16.jpg"> <img src="http://localhost/photograph/thumb/16.jpg"/></a>
-    <a href="http://localhost/photograph/img/17.jpg"> <img src="http://localhost/photograph/thumb/17.jpg"/></a>
-    <a href="http://localhost/photograph/img/18.jpg"> <img src="http://localhost/photograph/thumb/18.jpg"/></a>
-    <a href="http://localhost/photograph/img/19.jpg"> <img src="http://localhost/photograph/thumb/19.jpg"/></a>
-    <a href="http://localhost/photograph/img/20.jpg"> <img src="http://localhost/photograph/thumb/20.jpg"/></a>
+    <a href="img/1.jpg"> <img src="thumb/1.jpg"/></a>
+    <a href="img/2.jpg"> <img src="thumb/2.jpg"/></a>
+    <a href="img/3.jpg"> <img src="thumb/3.jpg"/></a>
+    <a href="img/4.jpg"> <img src="thumb/4.jpg"/></a>
+    <a href="img/5.jpg"> <img src="thumb/5.jpg"/></a>
+    <a href="img/6.jpg"> <img src="thumb/6.jpg"/></a>
+    <a href="img/7.jpg"> <img src="thumb/7.jpg"/></a>
+    <a href="img/8.jpg"> <img src="thumb/8.jpg"/></a>
+    <a href="img/9.jpg"> <img src="thumb/9.jpg"/></a>
+    <a href="img/10.jpg"> <img src="thumb/10.jpg"/></a>
+    <a href="img/11.jpg"> <img src="thumb/11.jpg"/></a>
+    <a href="img/12.jpg"> <img src="thumb/12.jpg"/></a>
+    <a href="img/13.jpg"> <img src="thumb/13.jpg"/></a>
+    <a href="img/14.jpg"> <img src="thumb/14.jpg"/></a>
+    <a href="img/15.jpg"> <img src="thumb/15.jpg"/></a>
+    <a href="img/16.jpg"> <img src="thumb/16.jpg"/></a>
+    <a href="img/17.jpg"> <img src="thumb/17.jpg"/></a>
+    <a href="img/18.jpg"> <img src="thumb/18.jpg"/></a>
+    <a href="img/19.jpg"> <img src="thumb/19.jpg"/></a>
+    <a href="img/20.jpg"> <img src="thumb/20.jpg"/></a>
 </div>
 
 <div class="textphoto">Еще больше фотографий Вы можете посмотреть у меня в блоге <a href="http://kseniyabulanova.com">kseniyabulanova.com</a>
@@ -246,7 +246,7 @@
             <div class="reviewtext">Отзывы</div>
         </div>
 
-        <div style="margin-left: 100px;margin-top: -50px;"><img src="http://localhost/photograph/images/first.png">
+        <div style="margin-left: 100px;margin-top: -50px;"><img src="images/first.png">
         </div>
         <div style="margin-top: -180px; margin-left: 260px; font-size: 16px;"><p align="justify">Буланову Ксюшу я знаю с
                 подросткового возраста: мы были в одной компании молодежи, ежегодно приезжающей на каникулы к бабушкам в
@@ -263,7 +263,7 @@
 
         <div class="line1"></div>
 
-        <div style="margin-left: 100px;margin-top: -102px;"><img src="http://localhost/photograph/images/second.png">
+        <div style="margin-left: 100px;margin-top: -102px;"><img src="images/second.png">
         </div>
         <div style="margin-top: -180px; margin-left: 260px; font-size: 16px;"><p align="justify">Когда увидели
                 фотографии Ксении вопрос о том, кто будет нашим свадебным фотографом отпал сам собой - и мы не
@@ -277,7 +277,7 @@
 
         <div class="line1"></div>
 
-        <div style="margin-left: 100px;margin-top: -100px;"><img src="http://localhost/photograph/images/third.png">
+        <div style="margin-left: 100px;margin-top: -100px;"><img src="images/third.png">
         </div>
         <div style="margin-top: -180px; margin-left: 260px; font-size: 16px;"><p align="justify">Наши фотографии самые
                 лучшие на свете! Что еще можно сказать, перед нашей свадьбой, я была уверена, зная своего мужа, что
@@ -293,7 +293,7 @@
 
         <div class="line1"></div>
 
-        <div style="margin-left: 100px;margin-top: -110px;"><img src="http://localhost/photograph/images/fourth.png">
+        <div style="margin-left: 100px;margin-top: -110px;"><img src="images/fourth.png">
         </div>
         <div style="margin-top: -178px; margin-left: 260px; margin-bottom: 41px; font-size: 16px;"><p align="justify">
                 Ксюш, спасибо тебе большое за эти чудесные фото!!!!Мы с огромным удовольствием пересматриваем фотографии
@@ -306,7 +306,7 @@
 
         <div class="line1"></div>
 
-        <div style="margin-left: 100px;margin-top: -100px;"><img src="http://localhost/photograph/images/fifth.png">
+        <div style="margin-left: 100px;margin-top: -100px;"><img src="images/fifth.png">
         </div>
         <div style="margin-top: -180px; margin-left: 260px; font-size: 16px;"><p align="justify">Работая на телевидении
                 не первый год, и ежедневно общаясь с творческими людьми, мы, к сожалению, давно заметили печальную
